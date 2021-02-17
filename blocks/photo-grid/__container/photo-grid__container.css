@@ -4,7 +4,6 @@
   padding: 0;
   display: -ms-grid;
   display: grid;
-  grid-template-columns: repeat(4, minmax(288px, -webkit-max-content));
   -ms-grid-columns: minmax(288px, -webkit-max-content) 16px minmax(288px, -webkit-max-content) 16px minmax(288px, -webkit-max-content) 16px minmax(288px, -webkit-max-content);
   -ms-grid-columns: minmax(288px, max-content) 16px minmax(288px, max-content) 16px minmax(288px, max-content) 16px minmax(288px, max-content);
   grid-template-columns: repeat(4, minmax(288px, max-content));
