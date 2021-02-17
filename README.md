@@ -10,4 +10,4 @@
 Проект про путишествия по России в котором показаны красивые и интересные места, куда стоит съездить.
 
 
-*[Ссылка на проект](https://hikkatown.github.io/russian-travel/index.html)
+* [Ссылка на проект](https://hikkatown.github.io/russian-travel/index.html)
