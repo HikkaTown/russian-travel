@@ -13,8 +13,8 @@
       min-content,
       max-content
     );
-  -ms-grid-rows: 152px 48px 1fr;
-  grid-template-rows: 152px 1fr;
+  -ms-grid-rows: fit-content(152px) 48px 1fr;
+  grid-template-rows: fit-content(152px) 1fr;
   grid-column-gap: 40px;
   grid-row-gap: 48px;
   grid-template-areas:

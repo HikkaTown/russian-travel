@@ -5,14 +5,9 @@
   line-height: 28px;
   font-weight: normal;
   text-decoration: none;
-  margin-right: 18px;
   -webkit-transition: .5s;
   -o-transition: .5s;
   transition: .5s;
-}
-
-.header__lang-link:last-of-type {
-  margin-right: 0;
 }
 
 .header__lang-link:hover {
