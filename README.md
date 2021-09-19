@@ -11,3 +11,5 @@
 
 
 * [Ссылка на проект](https://hikkatown.github.io/russian-travel/index.html)
+
+* для запуска проекта достаточно открыть index.html в вашем браузере.
